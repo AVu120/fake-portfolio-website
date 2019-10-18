@@ -1,0 +1,48 @@
+{
+  "comments": [
+    {
+      "id": 2,
+      "title": "Comment 2",
+      "userComment": "react-big-picture",
+      "authorId": 2,
+      "category": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "Comment 4",
+      "userComment": "javascript-development-environment",
+      "authorId": 2,
+      "category": "JavaScript"
+    },
+    {
+      "id": 8,
+      "title": "Comment 8",
+      "userComment": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 11,
+      "title": "Hi",
+      "authorId": 1,
+      "category": "Website",
+      "userComment": "Your webiste is shit",
+      "createdAt": 1571205430207,
+      "comment": "hi"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Anthony Hien Vu"
+    },
+    {
+      "id": 2,
+      "name": "Ee Tan"
+    },
+    {
+      "id": 3,
+      "name": "Bill Gates"
+    }
+  ]
+}
