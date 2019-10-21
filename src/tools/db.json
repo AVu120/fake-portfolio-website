@@ -8,9 +8,30 @@
       "category": "JavaScript"
     },
     {
+      "id": 3,
+      "title": "Comment 3",
+      "userComment": "react-creating-reusable-components",
+      "authorId": 3,
+      "category": "JavaScript"
+    },
+    {
       "id": 4,
       "title": "Comment 4",
       "userComment": "javascript-development-environment",
+      "authorId": 2,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Comment 5",
+      "userComment": "react-redux-react-router-es6",
+      "authorId": 3,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Comment 6",
+      "userComment": "react-flux-building-applications",
       "authorId": 2,
       "category": "JavaScript"
     },
@@ -22,13 +43,27 @@
       "category": "Software Architecture"
     },
     {
+      "id": 9,
+      "title": "Comment 9",
+      "userComment": "career-reboot-for-developer-mind",
+      "authorId": 2,
+      "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Comment 10",
+      "userComment": "web-components-shadow-dom",
+      "authorId": 3,
+      "category": "HTML5"
+    },
+    {
       "id": 11,
-      "title": "Hi",
-      "authorId": 1,
-      "category": "Website",
-      "userComment": "Your webiste is shit",
-      "createdAt": 1571205430207,
-      "comment": "hi"
+      "title": "You Suck",
+      "authorId": 2,
+      "category": "You Suck",
+      "userComment": "You Suck",
+      "createdAt": 1571619475870,
+      "comment": "you-suck"
     }
   ],
   "authors": [
