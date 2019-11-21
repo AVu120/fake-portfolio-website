@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To run this App
+Run the following commands in any CLI terminal:
+1. git clone https://github.com/AVu120/portfolio-website.git
+2. cd portfolio-website
+3. npm i
+4. npm start
+Then open http://localhost:3000 in a browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
