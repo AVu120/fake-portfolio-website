@@ -36,6 +36,13 @@
       "category": "JavaScript"
     },
     {
+      "id": 7,
+      "title": "Comment 7",
+      "userComment": "writing-clean-code-humans",
+      "authorId": 3,
+      "category": "Software Practices"
+    },
+    {
       "id": 8,
       "title": "Comment 8",
       "userComment": "architecting-applications-dotnet",
@@ -55,15 +62,6 @@
       "userComment": "web-components-shadow-dom",
       "authorId": 3,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "title": "You Suck",
-      "authorId": 2,
-      "category": "You Suck",
-      "userComment": "You Suck",
-      "createdAt": 1571619475870,
-      "comment": "you-suck"
     }
   ],
   "authors": [

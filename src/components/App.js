@@ -27,6 +27,7 @@ import PageNotFound from "./PageNotFound";
 import ManageCommentsPage from "./MainPage/Comments/ManageCommentsPage";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Practice from "./MainPage/Practice";
 
 function App() {
   return (
@@ -56,7 +57,12 @@ function App() {
           <Route path="/reduxTechArticles" component={ReduxTechArticles} />
           <Route path="/expressTechArticles" component={ExpressTechArticles} />
           <Route path="/manageComments" component={ManageCommentsPage} />
-          <Route path="/manageComments/:id" component={ManageCommentsPage} />
+          <Route
+            exact
+            path="/manageComments/:id"
+            render={({ match }) => <ManageCommentsPage match={match} />}
+          />
+          <Route path="/practice" component={Practice} />
           <Route component={PageNotFound} />
         </Switch>
       </Router>

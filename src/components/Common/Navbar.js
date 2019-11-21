@@ -29,6 +29,10 @@ const NavBar = () => {
       <NavLink to="/comments" activeStyle={activeStyle}>
         Comments
       </NavLink>
+      {" | "}
+      <NavLink to="/practice" activeStyle={activeStyle}>
+        Practice
+      </NavLink>
     </nav>
   );
 };
