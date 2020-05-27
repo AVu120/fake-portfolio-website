@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This was a small project I did when first learning React, this is not my actual portfolio website.
+
 ## To run this App
 Run the following commands in any CLI terminal:
 ### `1. git clone https://github.com/AVu120/portfolio-website.git`
